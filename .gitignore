@@ -1,0 +1,6 @@
+*.png
+save
+*.DS_Store
+*/__pycache__
+*/*/__pycache__
+lorenz_stabilizer_easy
